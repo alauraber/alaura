@@ -3,4 +3,5 @@
 Meu nome e Ana Laura
 
 Estou estudando no alura
-Estou me desenvolvendo n
+
+Estou me desenvolvendo na linguagem JavaScript
